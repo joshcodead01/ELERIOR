@@ -26,6 +26,7 @@
 .info_cards:hover {
     animation: moveToUp 1.5s ease-out;
     animation-delay: 0ms;
+    cursor: pointer;
 }
 
 @keyframes moveToUp {
@@ -42,5 +43,6 @@
 
 input[type="button"]:hover {
     opacity: 0.7;
+    cursor: pointer;
 }
 
