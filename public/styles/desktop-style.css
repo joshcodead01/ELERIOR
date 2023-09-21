@@ -1,4 +1,4 @@
-@import url('/styles/global.css');
+@import url('global.css');
 
 
 body {
@@ -352,7 +352,7 @@ body {
 .services_card div:nth-child(2) > input {
     display: flex;
     padding: 8px 24px;
-    border: 1.5px solid var(--default-black);
+    border: 1px solid var(--default-black);
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;

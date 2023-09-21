@@ -1,0 +1,85 @@
+{
+    "Service": [
+        {
+            "title": "Consultation",
+            "description": "The first step in creating the home you've always desired is to consult with the top interior designer."
+        },
+        {
+            "title": "Design Management",
+            "description": "Accountability for the payments, inventory, and logistical aspects of the designing process."
+        },
+        {
+            "title": "Home Rebuild",
+            "description": "A renowned interior designer offers services such as design, repair, and refurbishment."
+        }
+       
+    ], 
+
+    "Testimonial" : [
+        {
+            "author": "Cameron Williamson",
+            "profession": "Landscape Designer",
+            "comment": "Great for ideas that you don’t know how to elaborate on your own.",
+            "profile_pic": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2487&q=80"
+        },
+        {
+            "author": "Leslie Alexander",
+            "profession": "Safety Officer",
+            "comment": "They do their things not just for aesthetic purposes; they also incorporate safety into their designs.",
+            "profile_pic": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2488&q=80"
+        },
+        {
+            "author": "Darrell Steward",
+            "profession": "Site Supervisor",
+            "comment": "I love the aesthetic that they provide with every design that they suggest.",
+            "profile_pic": "https://images.unsplash.com/photo-1614289371518-722f2615943d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2487&q=80"
+        },
+        {
+            "author": "Ronald Richards",
+            "profession": "Architect",
+            "comment": "Amazing consultation! Company name helped me tremendously by sharing lots of practical tips and suggestions.",
+            "profile_pic": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2380&q=80"
+        }
+    ],
+
+
+    "Blog" : [
+        {
+            "title": "Effects of illegal logging on furniture-producing",
+            "date": "May 23, 2021",
+            "total_comments": 10,
+            "total_views": 14,
+            "total_shares": 8,
+            "cover_photo": "https://images.unsplash.com/photo-1531338926683-57dd1ba40966?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+            "profile_pic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2487&q=80"
+        },
+        {
+            "title": "Interior Design Trend 2023",
+            "date": "September 02, 2023",
+            "total_comments": 15,
+            "total_views": 100,
+            "total_shares": 50,
+            "cover_photo": "https://images.unsplash.com/photo-1672488707308-b05b4e12af63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+            "profile_pic": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2487&q=80"
+        },
+        {
+            "title": "The best color scheme that you can implement in your own house",
+            "date": "March 26, 2022",
+            "total_comments": 21,
+            "total_views": 34,
+            "total_shares": 17,
+            "cover_photo": "https://images.unsplash.com/photo-1525909002-1b05e0c869d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+            "profile_pic": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2371&q=80"
+        },
+        {
+            "title": "Tips on how to properly utilize small spaces in your house",
+            "date": "March 04, 2023",
+            "total_comments": 34,
+            "total_views": 25,
+            "total_shares": 92,
+            "cover_photo": "https://images.unsplash.com/photo-1560184897-67f4a3f9a7fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+            "profile_pic": "https://images.unsplash.com/photo-1614283233556-f35b0c801ef1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2487&q=80"
+        }
+    ]
+}
+
